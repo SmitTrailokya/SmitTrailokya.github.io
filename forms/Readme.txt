@@ -1,2 +1,1 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+My portfolio showcases a diverse range of projects spanning Cloud Applications, Full Stack Web Apps, Data Engineering and Machine Learning solutions. These projects highlight my proficiency in creating versatile and impactful software across different domains.
